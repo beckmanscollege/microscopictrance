@@ -7,12 +7,17 @@ margin:0px;
 #bild {
   width: 60vw;
   margin: 0 auto;
-  margin-top: 5vh;
-    margin-bottom: 5vh;
+  margin-top: 25vh;
+    margin-bottom: 15vh;
 }
 
 body {
-  text-align:center
+
+}
+
+#natureLogo{
+  position:
+  
 }
 
 
@@ -346,11 +351,9 @@ fill: white;
 }
 
 @keyframes fjortonhover {
-  0% {fill: deeppink; filter:blur(2px);}
-  25% {fill: gainsboro; filter:blur(2px);}
-  50% {fill: black; filter:blur(3px);}
-  75% {fill: gainsboro; filter:blur(2px);}
-  100% {fill: deeppink; filter:blur(2px);}  
+  0% {fill: crimson; filter:blur(1px);}
+  50% {fill: gold; filter:blur(2px);}
+  100% {fill: crimson; filter:blur(1px);}  
 }
 
 
@@ -359,16 +362,14 @@ fill: white;
 
 @keyframes tretton {
   0% {fill: gainsboro; filter:blur(1px);}
-  50% {fill: white; filter:blur(2px);}
+  50% {fill: grey; filter:blur(2px);}
   100% {fill: gainsboro; filter:blur(1px);}  
 }
 
 @keyframes trettonhover {
-  0% {fill: deeppink; filter:blur(2px);}
-  25% {fill: gainsboro; filter:blur(2px);}
-  50% {fill: black; filter:blur(3px);}
-  75% {fill: gainsboro; filter:blur(2px);}
-  100% {fill: deeppink; filter:blur(2px);}  
+  0% {fill: darkorange; filter:blur(1px);}
+  50% {fill: hotpink; filter:blur(2px);}
+  100% {fill: darkorange; filter:blur(1px);}  
 }
 
 
@@ -382,9 +383,9 @@ fill: white;
 }
 
 @keyframes tolvhover {
-  0% {fill: lightgray; filter:blur(1px);}
-  50% {fill: gray; filter:blur(2px);}
-  100% {fill: lightgray; filter:blur(1px);}  
+  0% {fill: mediumorchid; filter:blur(1px);}
+  50% {fill: orangered; filter:blur(2px);}
+  100% {fill: mediumorchid; filter:blur(1px);}  
 }
 
 
@@ -398,11 +399,9 @@ fill: white;
 }
 
 @keyframes elvahover {
-  0% {fill: deeppink; filter:blur(2px);}
-  25% {fill: gainsboro; filter:blur(2px);}
-  50% {fill: black; filter:blur(3px);}
-  75% {fill: gainsboro; filter:blur(2px);}
-  100% {fill: deeppink; filter:blur(2px);}  
+  0% {fill: olive filter:blur(1px);}
+  50% {fill: purple; filter:blur(2px);}
+  100% {fill: olive; filter:blur(1px);}   
 }
 
 
@@ -415,11 +414,9 @@ fill: white;
 }
 
 @keyframes tiohover {
-  0% {fill: deeppink; filter:blur(2px);}
-  25% {fill: gainsboro; filter:blur(2px);}
-  50% {fill: black; filter:blur(3px);}
-  75% {fill: gainsboro; filter:blur(2px);}
-  100% {fill: deeppink; filter:blur(2px);}  
+  0% {fill: royalblue; filter:blur(1px);}
+  50% {fill: yellowgreen; filter:blur(2px);}
+  100% {fill: royalblue filter:blur(1px);}  
 }
 
 
@@ -432,11 +429,9 @@ fill: white;
 }
 
 @keyframes niohover {
-  0% {fill: deeppink; filter:blur(2px);}
-  25% {fill: gainsboro; filter:blur(2px);}
-  50% {fill: black; filter:blur(3px);}
-  75% {fill: gainsboro; filter:blur(2px);}
-  100% {fill: deeppink; filter:blur(2px);}  
+  0% {fill: yellow; filter:blur(1px);}
+  50% {fill: mediumspringgreen; filter:blur(2px);}
+  100% {fill: yellow; filter:blur(1px);}  
 }
 
 
@@ -449,11 +444,9 @@ fill: white;
 }
 
 @keyframes attahover {
-  0% {fill: deeppink; filter:blur(2px);}
-  25% {fill: gainsboro; filter:blur(2px);}
-  50% {fill: black; filter:blur(3px);}
-  75% {fill: gainsboro; filter:blur(2px);}
-  100% {fill: deeppink; filter:blur(2px);}  
+  0% {fill: lime; filter:blur(1px);}
+  50% {fill: mediumblue; filter:blur(2px);}
+  100% {fill: lime; filter:blur(1px);}  
 }
 
 
@@ -466,11 +459,9 @@ fill: white;
 }
 
 @keyframes sjuhover {
-  0% {fill: deeppink; filter:blur(2px);}
-  25% {fill: gainsboro; filter:blur(2px);}
-  50% {fill: black; filter:blur(3px);}
-  75% {fill: gainsboro; filter:blur(2px);}
-  100% {fill: deeppink; filter:blur(2px);}  
+  0% {fill: darkcyan; filter:blur(1px);}
+  50% {fill: chocolate; filter:blur(2px);}
+  100% {fill: darkcyan; filter:blur(1px);}   
 }
 
 
@@ -483,11 +474,9 @@ fill: white;
 }
 
 @keyframes sexhover {
-  0% {fill: deeppink; filter:blur(2px);}
-  25% {fill: gainsboro; filter:blur(2px);}
-  50% {fill: black; filter:blur(3px);}
-  75% {fill: gainsboro; filter:blur(2px);}
-  100% {fill: deeppink; filter:blur(2px);}  
+  0% {fill: mediumvioletred; filter:blur(1px);}
+  50% {fill: olivedrab; filter:blur(2px);}
+  100% {fill: mediumvioletred; filter:blur(1px);}  
 }
 
 
@@ -543,9 +532,9 @@ fill: white;
 }
 
 @keyframes tvahover {
-  0% {fill: red; filter:blur(1px);}
-  50% {fill: green; filter:blur(3px);}
-  100% {fill: red; filter:blur(1px);}  
+  0% {fill: green; filter:blur(1px);}
+  50% {fill: blue; filter:blur(3px);}
+  100% {fill: green; filter:blur(1px);}  
 }
 
 
